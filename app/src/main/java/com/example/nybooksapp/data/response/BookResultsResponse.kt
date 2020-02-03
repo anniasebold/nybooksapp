@@ -1,5 +1,7 @@
 package com.example.nybooksapp.data.response
 
+import com.google.gson.annotations.SerializedName
+
 data class BookResultsResponse (
-    val book_details: List<BookDetailsResponse>
+    @SerializedName("book_details") val book_details: List<BookDetailsResponse>
 )
