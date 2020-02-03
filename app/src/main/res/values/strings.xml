@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NYTBooksApp</string>
+
+    <!-- Books Activity -->
+    <string name="books_title">Best-Sellers New York Times</string>
+
+    <!--  Book Details Activity  -->
+    <string name="book_details_title">Detalhes do Livro</string>
+    <string name="book_details_title_label">Título</string>
+    <string name="book_details_description_label">Descrição</string>
+
+</resources>
